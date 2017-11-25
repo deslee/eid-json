@@ -40,7 +40,6 @@
     "author": "",
     "metaDescription": "",
     "summary": "",
-    "content": "Storyboards for a short idea about a kid who unknowingly tries to share his scout snacks with a horde of ravenous raccoons.",
     "properties": {
       "video": {
         "code": "",
@@ -67,7 +66,8 @@
         }
       ],
       "thumbnail": "http://78.media.tumblr.com/b0eb999f8a57e376210793fb8c69679d/tumblr_oy0ffuLpy01s5mn7vo4_1280.png"
-    }
+    },
+    "content": "Storyboards for a short idea about a kid who unknowingly tries to share his scout snacks with a horde of ravenous raccoons."
   },
   {
     "id": "weightloss-program",
@@ -368,29 +368,6 @@
         }
       ],
       "thumbnail": "http://78.media.tumblr.com/17be22f6bd9774c0d85a9c4efd8e7ba1/tumblr_n4oaeeBlLm1s5mn7vo2_1280.jpg"
-    }
-  },
-  {
-    "id": "resume",
-    "title": "",
-    "type": "page",
-    "displayType": "text",
-    "isFeatured": false,
-    "tags": [],
-    "categories": [],
-    "publishedDate": "",
-    "updatedDate": "",
-    "author": "",
-    "metaDescription": "",
-    "summary": "",
-    "content": "Resume goes here",
-    "properties": {
-      "video": {
-        "code": "",
-        "description": ""
-      },
-      "images": [],
-      "thumbnail": ""
     }
   }
 ]
